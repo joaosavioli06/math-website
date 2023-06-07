@@ -1,4 +1,4 @@
-# Website envolvendo TI e Matemática
+# Website envolvendo TI e Matemática / Website involving IT and Mathematics
 
 [PT-BR] Este ‘website’ foi realizado por conta de uma tarefa da disciplina de TI quando eu estava na escola, mais precisamente no terceiro ano do ensino médio. O objetivo da tarefa era construir um ‘website’ informativo sobre o assunto das formas geométricas, e destacar três formas que vimos detalhadamente durante os bimestres do primeiro semestre da escola. Resolvi me dedicar bastante na realização deste ‘website’, como uma forma de pôr em prática os conteúdos do desenvolvimento web, assim aprendendo mais e mais sobre este tema tão importante, além de concluir a tarefa com êxito.
 
