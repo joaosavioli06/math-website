@@ -5,6 +5,10 @@ body{
     margin:auto;
 }
 
+#espaco-geom{
+  margin-top: -20px;
+}
+
 .geral{
     color: white;
 }
@@ -122,8 +126,3 @@ ol > li::marker {
     justify-content: space-evenly;
 }
 
-@media (max-width: 700px){
- #menu-bar{
-  margin-right: 30px;
- }
-}
