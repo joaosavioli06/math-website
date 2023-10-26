@@ -121,3 +121,9 @@ ol > li::marker {
     padding: 10px;
     justify-content: space-evenly;
 }
+
+@media (max-width: 700px){
+ #menu-bar{
+  margin-right: 30px;
+ }
+}
